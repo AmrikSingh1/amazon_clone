@@ -12,9 +12,10 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmrikSingh1&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-</p>
+<div align="center">
+  <h3>👁️ PROFILE VISITORS 👁️</h3>
+  <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" alt="Profile Visitors" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />

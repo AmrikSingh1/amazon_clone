@@ -1,40 +1,55 @@
-# <div align="center">
-  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=AMRIK+SINGH;Flutter+Developer;Tech+Innovator" />
-</div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="550" alt="Tech Animation">
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=App+Developer;UI%2FUX+Designer;Flutter+Expert;AI+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=AMRIK%20SINGH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Tech%20Innovator&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmrikSingh1&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="AmrikSingh1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syncopate&weight=700&size=25&duration=2500&pause=500&color=8A2BE2&center=true&width=600&height=100&lines=FLUTTER+DEVELOPER;UI/UX+DESIGNER;TECH+INNOVATOR;AI+ENTHUSIAST" alt="Typing SVG" />
 </p>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a3a2f9b-7344-4805-9e3b-bf9cdfc2e9af.png" width="30"> About Me 
-
-- 💻 I'm currently working on **PathOne** (a large-scale AI career guidance platform)
-- 🌱 I'm currently learning **App Development**
-- 🤝 I'm looking for help to build PathOne Project with me, if you have ever built an AI Integrated App, please reach out!
-- ⚡ Fun fact: Humans put a man on the moon -- before they put wheels on luggage.
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="Contribution Grid Animations">
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Tech Stack
-
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmrikSingh1&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+</div>
+
+<h2>
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" />
+  <span style="color:#8A2BE2;">ABOUT ME</span>
+</h2>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300" />
+
+- 💻 I'm currently building **PathOne** - an AI career guidance platform
+- 🌱 Exploring advanced **App Development** techniques
+- 🤝 Looking for collaborators on PathOne - experience with AI apps is a plus!
+- ⚡ Fun fact: Humans put a man on the moon -- before they put wheels on luggage.
+
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="600" />
+</div>
+
+<h2>
+  <img src="https://media.giphy.com/media/uhWLu2lsU0RL5AJJbS/giphy.gif" width="35" />
+  <span style="color:#8A2BE2;">TECH STACK</span>
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,docker,github,figma&theme=dark" alt="Skills Icon" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -42,35 +57,41 @@
   <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FlutterFlow-FF6600?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e8-9402-4d25-b5e8-7139ab16f009.gif" width="400" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="700" />
+</div>
+
+<h2>
+  <img src="https://media.giphy.com/media/GxdkXxMgwGfLt6jjw1/giphy.gif" width="35" />
+  <span style="color:#8A2BE2;">GITHUB STATS</span>
+</h2>
+
+<div align="center">
+  <a href="https://github.com/AmrikSingh1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=midnight-purple&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FFFFFF&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/AmrikSingh1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" />
-</div>
+<h2>
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" />
+  <span style="color:#8A2BE2;">LET'S CONNECT</span>
+</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216125640-2b13d7a8-6702-4344-a735-7716119a5511.png" width="30"> Connect With Me
 <div align="center">
   <a href="https://github.com/AmrikSingh1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -78,18 +99,28 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:example@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" />
 </div>
 
-<!-- Footer Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<p align="center">
+  <a href="https://github.com/AmrikSingh1">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmrikSingh1&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" />
+</div>
 
 # Amazon Clone
 

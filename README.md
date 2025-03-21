@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=AMRIK%20SINGH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Tech%20Innovator&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d18f2&height=200&section=header&text=AMRIK%20SINGH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Tech%20Innovator&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syncopate&weight=700&size=25&duration=2500&pause=500&color=8A2BE2&center=true&width=600&height=100&lines=FLUTTER+DEVELOPER;UI/UX+DESIGNER;TECH+INNOVATOR;AI+ENTHUSIAST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syncopate&weight=700&size=25&duration=2500&pause=500&color=6d18f2&center=true&width=600&height=100&lines=FLUTTER+DEVELOPER;UI/UX+DESIGNER;TECH+INNOVATOR;AI+ENTHUSIAST" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <h2>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" />
-  <span style="color:#8A2BE2;">ABOUT ME</span>
+  <span style="color:#6d18f2;">ABOUT ME</span>
 </h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300" />
@@ -41,7 +41,7 @@
 
 <h2>
   <img src="https://media.giphy.com/media/uhWLu2lsU0RL5AJJbS/giphy.gif" width="35" />
-  <span style="color:#8A2BE2;">TECH STACK</span>
+  <span style="color:#6d18f2;">TECH STACK</span>
 </h2>
 
 <div align="center">
@@ -66,12 +66,12 @@
 
 <h2>
   <img src="https://media.giphy.com/media/GxdkXxMgwGfLt6jjw1/giphy.gif" width="35" />
-  <span style="color:#8A2BE2;">GITHUB STATS</span>
+  <span style="color:#6d18f2;">GITHUB STATS</span>
 </h2>
 
 <div align="center">
   <a href="https://github.com/AmrikSingh1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=midnight-purple&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FFFFFF&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=midnight-purple&hide_border=true&stroke=6d18f2&ring=6d18f2&fire=FFFFFF&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -79,8 +79,8 @@
 
 <div align="center">
   <a href="https://github.com/AmrikSingh1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6d18f2&icon_color=6d18f2" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=6d18f2&icon_color=6d18f2" alt="Top Languages" />
   </a>
 </div>
 
@@ -90,7 +90,7 @@
 
 <h2>
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" />
-  <span style="color:#8A2BE2;">LET'S CONNECT</span>
+  <span style="color:#6d18f2;">LET'S CONNECT</span>
 </h2>
 
 <div align="center">
@@ -120,7 +120,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d18f2&height=120&section=footer" width="100%" />
 </div>
 
 # Amazon Clone

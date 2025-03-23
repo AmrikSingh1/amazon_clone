@@ -33,8 +33,8 @@ This app uses the following packages:
 ## Screenshots
 
 <div align="center">
-  <img src="assets/images/Screenshot 2025-03-22 at 11.48.05 PM.png" width="300" alt="Home Screen" />
-  <img src="assets/images/Screenshot 2025-03-22 at 11.48.14 PM.png" width="300" alt="Product Details" />
+  <img src="assets/images/screenshot1.png" width="300" alt="Home Screen" />
+  <img src="assets/images/screenshot2.png" width="300" alt="Product Details" />
 </div>
 
 ## License

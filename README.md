@@ -33,12 +33,13 @@ This app uses the following packages:
 ## Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600/2196F3/FFFFFF?text=Amazon+Home+Screen" width="300" alt="Home Screen" />
-  <img src="https://via.placeholder.com/300x600/FF5722/FFFFFF?text=Amazon+Product+Details" width="300" alt="Product Details" />
+  <img src="https://i.imgur.com/PwjTLIZ.png" width="300" alt="Amazon Home Screen" />
+  <img src="https://i.imgur.com/gfWzYjv.png" width="300" alt="Amazon Product Details" />
 </div>
 
 ## License
 
 MIT
+
 
 

@@ -33,8 +33,8 @@ This app uses the following packages:
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmrikSingh1/amazon_clone/main/assets/images/screenshot1.png" width="300" alt="Home Screen" />
-  <img src="https://raw.githubusercontent.com/AmrikSingh1/amazon_clone/main/assets/images/screenshot2.png" width="300" alt="Product Details" />
+  <img src="https://via.placeholder.com/300x600/2196F3/FFFFFF?text=Amazon+Home+Screen" width="300" alt="Home Screen" />
+  <img src="https://via.placeholder.com/300x600/FF5722/FFFFFF?text=Amazon+Product+Details" width="300" alt="Product Details" />
 </div>
 
 ## License

@@ -33,7 +33,7 @@ This app uses the following packages:
 ## Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/YkmNTHT.png" width="300" alt="Amazon Home Screen" />
+  <img src="https://i.imgur.com/YkmNTHT" width="300" alt="Amazon Home Screen" />
   <img src="https://i.imgur.com/gfWzYjv.png" width="300" alt="Amazon Product Details" />
 </div>
 
